@@ -1,0 +1,6 @@
+my first file created by pythonHello users
+ name=gfsddfds
+ name=gddsfd
+ name=dhgdhfgsd
+ name=dhsgdfgd
+ name=dhdgfhsd

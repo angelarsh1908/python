@@ -1,0 +1,3 @@
+my first file created by pythonHello users
+ name=asdsd
+ subject=sddsf
