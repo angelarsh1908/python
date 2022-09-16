@@ -1,0 +1,5 @@
+f = open('sapmle.txt','r')
+# data = f.read(5)
+data=f.readline()
+print(data)
+f.close()
